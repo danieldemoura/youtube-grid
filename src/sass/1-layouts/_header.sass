@@ -1,0 +1,36 @@
+.header
+    display: grid
+    grid-template-columns: max-content 2fr max-content
+    place-items: center
+    grid-area: header
+
+    height: 5.6rem
+    padding: 0rem 2.4rem
+
+    .box
+        display: flex
+        align-items: center
+        gap: 2.4rem
+
+    .search
+        display: flex
+        width: 34.8rem
+        gap: 0rem
+
+        &__input
+            flex: 1
+            border: 1px solid #CCC
+            padding: 0rem 1.6rem
+            height: 4rem
+
+        &__btn
+            border: 1px solid #CCC
+            border-left: none
+            background: #F8F8F8 url(../img/search.svg) no-repeat center / 2.4rem
+
+            width: 5.7rem
+            height: 4rem
+
+    .profile
+        width: 3.4rem
+        border-radius: 50%
