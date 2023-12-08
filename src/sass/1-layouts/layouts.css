@@ -65,34 +65,34 @@ body {
   height: 2.4rem;
 }
 .aside .list__item:nth-child(1)::before {
-  background: url(/src/img/home.svg) no-repeat center/contain;
+  background: url(../src/img/home.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(2)::before {
-  background: url(/src/img/compass.svg) no-repeat center/contain;
+  background: url(../src/img/compass.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(3)::before {
-  background: url(/src/img/youtube.svg) no-repeat center/contain;
+  background: url(../src/img/youtube.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(4)::before {
-  background: url(/src/img/disc.svg) no-repeat center/contain;
+  background: url(../src/img/disc.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(5)::before {
-  background: url(/src/img/thumbs-up.svg) no-repeat center/contain;
+  background: url(../src/img/thumbs-up.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(6)::before {
-  background: url(/src/img/clock.svg) no-repeat center/contain;
+  background: url(../src/img/clock.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(7)::before {
-  background: url(/src/img/download.svg) no-repeat center/contain;
+  background: url(../src/img/download.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(8)::before {
-  background: url(/src/img/film.svg) no-repeat center/contain;
+  background: url(../src/img/film.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(9)::before {
-  background: url(/src/img/book.svg) no-repeat center/contain;
+  background: url(../src/img/book.svg) no-repeat center/contain;
 }
 .aside .list__item:nth-child(10)::before {
-  background: url(/src/img/award.svg) no-repeat center/contain;
+  background: url(../src/img/award.svg) no-repeat center/contain;
 }
 .aside .selected {
   font-weight: 700;
